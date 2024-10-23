@@ -1,9 +1,11 @@
-import './homepage.css'
+import "./homepage.css";
 
 function Homepage() {
-    return (
-<div>Hello World!</div>
-    )
+  return (
+    <div>
+      <h1>NutriFit</h1>
+    </div>
+  );
 }
 
 export default Homepage;
